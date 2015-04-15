@@ -21,7 +21,7 @@ a object,:link object,:visited object
 address,abbr { font-style:normal }
 iframe:not(.auto-link) { display:none ! important; visibility:hidden ! important; margin-left: -10000px ! important  }
 a {
-  color: #0088cc;
+  color: #00FF00;
   text-decoration: none;
 }
 
